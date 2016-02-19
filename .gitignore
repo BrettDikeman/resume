@@ -34,7 +34,6 @@ develop-eggs/
 ###########
 # TeX
 ###########
-*.pdf
 *.log
 *.swp
 *.tcp
